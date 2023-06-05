@@ -1,0 +1,63 @@
+- label: 1
+  items:
+    - name: Introduction
+      link: /introduction/
+- label: "2:The ENCODE Database"
+  items:
+        - name: 2.1 Modules
+          link: /sublink/
+        - name: 2.2 Competences
+          link: /sublink2/
+- label: "3: Teaching Resources"
+  items:
+    - name: 3.1 Corpus and database creation and publication
+      link: /corpus_db/
+      items:
+       - name: 3.1.1 Creation
+       - link: /another-example-item/
+       - name: 3.1.2 Publication
+       - link: /another-example-item/
+       - name: 3.1.3 Sharing
+       - link: /example/
+       - name: 3.1.4 LOD
+       - link: /example/
+    - name: 3.2 Guidelines and best practices
+      link: /guidelines_bp/
+      items:
+       - name: 3.2.1 EpiDoc
+       - link: /another-example-item/
+       - name: 3.2.2 Papyri.info
+       - link: /another-example-item/
+       - name: 3.2.3 CIPEM
+       - link: /example/
+       - name: 3.2.5 Leiden+
+       - link: /example/
+       - name: 3.2.5 Sustainability
+       - link: /example/
+    - name: 3.3 Pedagogical resources for teachers
+      link: /ped_resources/
+      items:
+       - name: 3.3.1 Software Carpentry
+       - link: /another-example-item/
+       - name: 3.3.2 Programming historian
+       - link: /another-example-item/
+       - name: 3.3.3 Sunoikisis DC 
+       - link: /example/
+    - name: 3.4 Portals & Mailing lists
+      link: /portals_mail/
+      items:
+       - name: 3.4.1 Digital Classicist
+       - link: /another-example-item/
+       - name: 3.4.2 PAPY-list
+       - link: /another-example-item/
+       - name: 3.4.3 MARKUP
+       - link: /example/
+    - name: 3.5 Bibliographies
+      link: /bibliographies/
+- label: 4
+  items:
+    - name: Guide to terminoloy
+      link: /terminology/
+    
+    
+
