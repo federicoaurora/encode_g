@@ -1,0 +1,12 @@
+title: ENCODE Guidelines
+email: federico.aurora@ub.uio.νο
+github_username:  federicoaurora
+theme: bulma-clean-theme
+fixed_navbar: top
+footer_menu: footer
+menubar: menu
+hero_height: is-small
+plugins:
+  - jekyll-feed
+
+
