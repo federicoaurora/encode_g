@@ -1,7 +1,7 @@
 title: ENCODE Guidelines
 email: federico.aurora@ub.uio.νο
 github_username:  federicoaurora
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: federicoaurora/bulma-clean-theme
 fixed_navbar: top
 footer_menu: footer
 menubar: menu
